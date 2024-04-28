@@ -47,6 +47,7 @@
     line-height: 1.5;
     letter-spacing: 0.02em;
     color:  #2e2f42;
+    padding: 24px 0;
 }
 .link:hover{
     color: #404bbf;
@@ -162,6 +163,8 @@ img{
     display: flex;
     align-items: center;
 }
-.page-nav{
-    
+.menu{
+    display: flex;
+    gap: 40px;
+
 }
