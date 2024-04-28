@@ -145,3 +145,6 @@
     letter-spacing: 0.02em;
     color: #ffffff;
 }
+img{
+    display: block;
+}
