@@ -34,8 +34,6 @@
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-    display: flex;
-    gap: 40px;
 }
 .link-mail:hover{
     color: #404bbf;
