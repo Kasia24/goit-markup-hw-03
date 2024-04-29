@@ -189,3 +189,6 @@ img{
     display: flex;
     gap: 24px; 
 }
+.first{
+    width: calc((100% - 72px) / 4);
+}
