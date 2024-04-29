@@ -185,3 +185,7 @@ img{
 .section-two{
     padding: 120px 0;
 }
+.skills{
+    display: flex;
+    gap: 24px; 
+}
