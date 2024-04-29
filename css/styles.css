@@ -24,6 +24,9 @@
     color:  #ffffff;
     cursor: pointer;
     display: block;
+    min-width: 169px;
+    height: 56px;
+    border: none; 
 }
 .button-style:hover{
     background-color: #404BBF;
