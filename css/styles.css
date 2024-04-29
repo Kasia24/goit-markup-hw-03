@@ -67,7 +67,7 @@
 .address-style{
     font-style: normal;
 }
-li .address-style{
+.date{
     display: flex;
     gap: 40px;
 }
