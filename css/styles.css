@@ -23,6 +23,7 @@
     letter-spacing: 0.04em;
     color:  #ffffff;
     cursor: pointer;
+    display: block;
 }
 .button-style:hover{
     background-color: #404BBF;
