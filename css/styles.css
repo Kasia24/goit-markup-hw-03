@@ -8,6 +8,8 @@
     color: #4d5ae5;
     border-bottom: 1px solid #e7e9fc;
     margin-right: 76px;
+    display: inline-block;
+    margin-bottom: 16px; 
 }
 .accent{
     color: #2e2f42;
@@ -82,11 +84,13 @@
 }
 .footer-style{
     background-color: #2e2f42;
+    padding: 100px 0;
 }
 .text{
     line-height: 1.5;
     color:#F4F4FD;
     letter-spacing: 0.02em;
+    max-width: 264px;
 }
 .style-color{
     color:#f4f4fd
