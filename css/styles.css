@@ -182,3 +182,6 @@ img{
     display: flex;
     gap: 40px;
 }
+.section-two{
+    padding: 120px 0;
+}
