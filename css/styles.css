@@ -122,6 +122,11 @@
     color: #2e2f42;
     margin-bottom: 72px; 
 }
+.name-first{
+    background-color: #FFFFFF;
+    display: flex;
+    gap: 24px; 
+}
 .name-style{
     background-color: #FFFFFF;
     display: flex;
