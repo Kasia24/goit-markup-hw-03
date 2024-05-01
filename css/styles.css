@@ -111,6 +111,7 @@
 }
 .team{
     background-color: #F4F4FD;
+    padding: 120px 0;
 }
 .name{
     font-size: 36px;
@@ -119,9 +120,12 @@
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
+    margin-bottom: 72px; 
 }
 .name-style{
-    background-color: #FFFFFF
+    background-color: #FFFFFF;
+    display: flex;
+    gap: 24px; 
 }
 .person-one{
     font-weight: 500;
