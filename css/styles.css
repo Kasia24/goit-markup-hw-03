@@ -129,6 +129,7 @@
     background-color: #FFFFFF;
     display: flex;
     gap: 24px; 
+    list-style-type: none;
 }
 .name-style{
     width: calc(100% - 72px) / 4;
