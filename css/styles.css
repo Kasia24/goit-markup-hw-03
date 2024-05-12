@@ -78,6 +78,7 @@
 .date{
     display: flex;
     gap: 40px;
+    list-style-type: none;
 }
 .footer-style{
     background-color: #2e2f42;
