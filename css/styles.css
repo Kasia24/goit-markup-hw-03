@@ -182,7 +182,7 @@
     letter-spacing: 0.02em;
     color: #434455;
 }
-h3 .visually-hidden{
+.visually-hidden{
     position: absolute;
     width: 1px;
     height: 1px;
