@@ -224,7 +224,8 @@ img{
 }
 .skills{
     display: flex;
-    gap: 24px; 
+    gap: 24px;
+    width: calc(100% - 72px) / 4;
 }
 .first{
     width: calc(100% - 72px) / 4;
