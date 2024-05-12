@@ -218,6 +218,7 @@ img{
     list-style-type: none;
     text-decoration: none;
     justify-content: space-between;
+    align-items: center;
 }
 .section-two{
     padding: 120px 0;
