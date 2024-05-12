@@ -80,6 +80,7 @@
     display: flex;
     gap: 40px;
     list-style-type: none;
+    text-decoration: none;
 }
 .footer-style{
     background-color: #2e2f42;
