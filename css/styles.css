@@ -217,6 +217,7 @@ img{
     gap: 40px;
     list-style-type: none;
     text-decoration: none;
+    justify-content: space-between;
 }
 .section-two{
     padding: 120px 0;
