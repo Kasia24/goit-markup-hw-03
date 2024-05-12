@@ -103,6 +103,7 @@
     color: #2e2f42;
     text-align: center;
     margin-bottom: 8px;
+    list-style-type: none;
 }
 .text-style{
     font-weight: 400;
