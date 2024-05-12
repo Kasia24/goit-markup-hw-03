@@ -218,6 +218,7 @@ img{
 }
 .first{
     width: calc(100% - 72px) / 4;
+    list-style-type: none;
 }
 .team-second{
     padding-top: 120px; 
