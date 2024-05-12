@@ -38,9 +38,6 @@
 .button-style:focus{
     background-color: #404BBF;
 }
-.huge{ 
-
-}
 .link-mail{
     font-size: 16px;
     line-height: 1.5;
@@ -204,6 +201,7 @@ img{
 .page-nav{
     display: flex;
     gap: 40px;
+    list-style-type: none;
 }
 .section-two{
     padding: 120px 0;
