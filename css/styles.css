@@ -180,6 +180,7 @@
     color: #2e2f42;
     margin-bottom: 8px;
     list-style-type: none;
+    visibility: hidden;
 }
 .department{
     font-size: 16px;
