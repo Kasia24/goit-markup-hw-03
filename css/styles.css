@@ -204,6 +204,7 @@ img{
     display: flex;
     gap: 40px;
     list-style-type: none;
+    text-decoration: none;
 }
 .section-two{
     padding: 120px 0;
