@@ -183,7 +183,7 @@
     color: #434455;
 }
 .visually-hidden{
-    visibility: hidden;
+    overflow: hidden;
 }
 .desrciption{
     background-color: #FFFFFF,
