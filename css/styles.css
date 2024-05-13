@@ -261,6 +261,7 @@ img{
     display: flex;
     align-items: center;
     text-decoration: none;
+    gap: 76px;
 }
 .page-nav{
     font-family: Roboto;
