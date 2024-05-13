@@ -49,6 +49,7 @@
     border: none; 
     background-color: #4d5ae5;
     border-radius: 4px;
+    align-items: center;
 }
 .button-style:hover{
     background-color: #404BBF;
