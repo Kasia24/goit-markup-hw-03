@@ -60,7 +60,6 @@
     color: #434455;
     text-decoration: none;
     font-family: "Roboto";
-    font-size: 400;
 }
 .link-mail:hover{
     color: #404bbf;
@@ -94,6 +93,7 @@
 }
 .address-style{
     font-style: normal;
+    display: flex;
 }
 .date{
     display: flex;
@@ -235,6 +235,12 @@ img{
     text-decoration: none;
 }
 .page-nav{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    text-align: left;
     display: flex;
     gap: 40px;
     list-style-type: none;
