@@ -100,6 +100,9 @@
     color: #ffffff;
     max-width: 496px;
     display: flex;
+    height: 120px;
+    top: 260px;
+    left: 472px;
 }
 .address-style{
     font-style: normal;
