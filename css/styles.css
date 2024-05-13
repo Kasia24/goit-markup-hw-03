@@ -291,3 +291,11 @@ img{
     margin-bottom: 8px;
     list-style-type: none;
 }
+h1{
+    width: 496px;
+    height: 120px;
+    top: 260px;
+    left: 472px;
+    gap: 0px;
+    opacity: 0px;
+}
