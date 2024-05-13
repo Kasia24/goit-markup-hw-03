@@ -65,6 +65,7 @@
     color:  #2e2f42;
     padding: 24px 0;
     text-decoration: none;
+    font-family: "Roboto";
 }
 .link:hover{
     color: #404bbf;
