@@ -32,6 +32,9 @@
 .section-one{
     background-color: #2e2f42;
     padding: 188px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 .button-style{
     background-color: #4D5AE5;
