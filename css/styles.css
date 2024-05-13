@@ -43,13 +43,16 @@
     letter-spacing: 0.04em;
     color:  #ffffff;
     cursor: pointer;
-    display: block;
+    display: flex;
     min-width: 169px;
     height: 56px;
     border: none; 
     background-color: #4d5ae5;
     border-radius: 4px;
     align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
 }
 .button-style:hover{
     background-color: #404BBF;
