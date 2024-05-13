@@ -119,7 +119,8 @@
     max-width: 264px;
 }
 .style-color{
-    color:#f4f4fd
+    color:#f4f4fd;
+    text-decoration: none;
 }
 .title{
     font-weight: 500;
