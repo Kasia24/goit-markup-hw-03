@@ -89,7 +89,7 @@
 .page-title{
     font-size: 56px;
     line-height: 1.07;
-    text-align: center;
+    align-items: center;
     letter-spacing: 0.02em;
     color: #ffffff;
     max-width: 496px;
@@ -97,6 +97,7 @@
 .address-style{
     font-style: normal;
     display: flex;
+
 }
 .date{
     display: flex;
