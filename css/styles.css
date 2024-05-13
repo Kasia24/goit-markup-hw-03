@@ -64,6 +64,14 @@
     text-decoration: none;
     font-family: "Roboto";
 }
+.link-tel{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    text-align: left;
+}
 .link-tel:hover{
     color: #404bbf;
 }
