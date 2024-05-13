@@ -8,6 +8,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+    flex-direction: column;
 }
 .logo-style{
     font-family: "Raleway", sans-serif;
