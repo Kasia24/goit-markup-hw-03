@@ -247,6 +247,8 @@ img{
     text-decoration: none;
     justify-content: space-between;
     align-items: center;
+    margin: 0;
+    padding: 0;
 }
 .section-two{
     padding: 120px 0;
