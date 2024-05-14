@@ -22,6 +22,7 @@
     margin-top: 24px;
     margin-bottom: 24px; 
     text-decoration: none;
+    display: inline-block;
 }
 .accent{
     color: #2e2f42;
