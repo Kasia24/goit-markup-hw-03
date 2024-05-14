@@ -52,6 +52,7 @@
     flex-direction: column;
     justify-content: center;
     margin: auto;
+    display: block;
 }
 .button-style:hover{
     background-color: #404BBF;
