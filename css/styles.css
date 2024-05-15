@@ -125,8 +125,6 @@
 .address-style{
     font-style: normal;
     display: flex;
-    gap: 332px;
-
 }
 .date{
     display: flex;
