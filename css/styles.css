@@ -314,3 +314,7 @@ img{
     margin-bottom: 8px;
     list-style-type: none;
 }
+.navigation{
+    display: flex;
+    justify-content: space-between;
+}
