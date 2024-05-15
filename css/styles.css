@@ -125,6 +125,7 @@
 .address-style{
     font-style: normal;
     display: flex;
+    align-items: center;
 }
 .date{
     display: flex;
